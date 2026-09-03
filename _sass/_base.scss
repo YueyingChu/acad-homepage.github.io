@@ -11,9 +11,12 @@ body {
   margin: 0;
   padding: 0;
   padding-bottom: 0em;
+  background: $background-color;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -23,9 +26,10 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
-  line-height: 1.2;
+  color: $text-color;
+  line-height: 1.25;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 h1 {
@@ -59,7 +63,7 @@ small, .small {
 }
 
 p {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.75em;
 }
 
 u,
@@ -118,6 +122,14 @@ blockquote {
 /* links */
 
 a {
+  color: $link-color;
+  text-underline-offset: 0.16em;
+  -webkit-transition: color 0.15s ease-in-out;
+  transition: color 0.15s ease-in-out;
+
+  &:hover {
+    color: $link-color-hover;
+  }
   
   &:focus {
     @extend %tab-focus;
@@ -243,7 +255,7 @@ figure {
 
 figcaption {
   margin-bottom: 0.5em;
-  color: mix(#fff, $text-color, 25%);
+  color: $text-color;
   font-family: $caption-font-family;
   font-size: $type-size-6;
 

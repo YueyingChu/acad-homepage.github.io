@@ -41,7 +41,7 @@
   p, li {
     font-family: $sans-serif;
     font-size: $type-size-6;
-    line-height: 1.5;
+    line-height: 1.6;
   }
 
   img {
@@ -92,14 +92,16 @@
   }
 
   img {
+    aspect-ratio: 1322 / 1652;
     max-width: 175px;
     min-width: 75px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    object-fit: cover;
+    object-position: center;
+    border: 0;
+    padding: 0;
+    background: none;
+    border-radius: $border-radius;
+    box-shadow: 0 8px 24px rgba($primary-color, 0.12);
   }
 }
 
@@ -121,6 +123,8 @@
 
 .author__name {
   margin: 0;
+  color: $text-color;
+  font-weight: 700;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -138,6 +142,7 @@
 
 .author__bio {
   margin: 0;
+  color: $text-color;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -243,12 +248,14 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
+    color: $text-color;
     font-size: $type-size-5;
     text-decoration: none;
 
     &:hover {
+      color: $link-color;
       text-decoration: underline;
+      text-underline-offset: 0.18em;
     }
   }
 }
