@@ -33,7 +33,7 @@ My current research focuses on human-LLM alignment: how large language models co
 
   <article class="pub-entry">
     <h3><a href="https://osf.io/preprints/psyarxiv/zt6vh_v1">People want human and AI social partners to follow different relational norms despite similar roles</a></h3>
-    <p class="pub-authors">Madeline G. Reinecke, <strong>Yueying Chu</strong>, Ivar Rodríguez Hannikainen, Andreas Kappes, Sebastian Porsdam Mann, Ilina Singh, Julian Savulescu, and Brian D. Earp</p>
+    <p class="pub-authors">Madeline G. Reinecke<sup>*</sup>, <strong>Yueying Chu</strong>, Ivar Rodríguez Hannikainen, Andreas Kappes, Sebastian Porsdam Mann, Ilina Singh<sup>#</sup>, Julian Savulescu<sup>#</sup>, and Brian D. Earp<sup>*</sup></p>
     <p class="pub-venue"><em>PsyArXiv</em> preprint, 2026.</p>
     <p class="pub-links"><a href="https://osf.io/preprints/psyarxiv/zt6vh_v1">Preprint</a></p>
   </article>
@@ -55,7 +55,7 @@ My current research focuses on human-LLM alignment: how large language models co
   <article class="pub-entry">
     <h3><a href="https://psycnet.apa.org/doi/10.1037/aca0000739">Machine Creativity: Aversion, Appreciation, or Indifference?</a></h3>
     <p class="pub-authors">Peng Liu<sup>*</sup>, <strong>Yueying Chu</strong>, Yandong Zhao, and Siming Zhai</p>
-    <p class="pub-venue">In <em>Psychology of Aesthetics, Creativity, and the Arts</em>, 2025.</p>
+    <p class="pub-venue">In <em>Psychology of Aesthetics, Creativity, and the Arts</em>, 2026.</p>
     <p class="pub-links"><a href="https://psycnet.apa.org/doi/10.1037/aca0000739">DOI</a></p>
   </article>
 
@@ -117,8 +117,8 @@ My current research focuses on human-LLM alignment: how large language models co
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1080/10447318.2025.2607570">Can Anthropomorphic Intelligent Vehicle Agents Restore Trust in Automated Vehicles After Failures?</a></h3>
-    <p class="pub-authors">Yunhao Cai<sup>#</sup>, <strong>Yueying Chu<sup>#</sup></strong>, Xiaofei Yu, Hao Tan, and Peng Liu<sup>*</sup></p>
-    <p class="pub-venue">In <em>International Journal of Human-Computer Interaction</em>, 2025.</p>
+    <p class="pub-authors">Yunhao Cai<sup>#</sup>, <strong>Yueying Chu<sup>#</sup></strong>, Xiaofei Yu, Hao Tan<sup>*</sup>, and Peng Liu<sup>*</sup></p>
+    <p class="pub-venue">In <em>International Journal of Human-Computer Interaction</em>, 2026.</p>
     <p class="pub-links"><a href="https://doi.org/10.1080/10447318.2025.2607570">DOI</a></p>
   </article>
 
@@ -152,7 +152,7 @@ My current research focuses on human-LLM alignment: how large language models co
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1016/j.trf.2025.103447">Imperfect advanced driver assistance systems in the eyes of imperfect users</a></h3>
-    <p class="pub-authors"><strong>Yueying Chu<sup>#</sup></strong>, Wenting Tang<sup>#</sup>, Shanguang Chen, and Peng Liu</p>
+    <p class="pub-authors"><strong>Yueying Chu<sup>#</sup></strong>, Wenting Tang<sup>#</sup>, Shanguang Chen<sup>*</sup>, and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>Transportation Research Part F: Traffic Psychology and Behaviour</em>, 2026.</p>
     <p class="pub-links"><a href="https://doi.org/10.1016/j.trf.2025.103447">DOI</a></p>
   </article>
