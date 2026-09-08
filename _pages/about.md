@@ -103,7 +103,7 @@ My current research focuses on human-LLM alignment: how large language models co
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1080/10447318.2026.2682916">Can External Human-Machine Interfaces Promote Human Drivers' Prosocial Intentions Toward Automated Vehicles in Mixed Traffic?</a></h3>
-    <p class="pub-authors"><strong>Yueying Chu</strong>, Jinglei Chen, Yunhao Cai, Zhigang Xu, and Peng Liu<sup>*</sup></p>
+    <p class="pub-authors"><strong>Yueying Chu</strong><sup>#</sup>, Jinglei Chen<sup>#</sup>, Yunhao Cai, Zhigang Xu, and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>International Journal of Human-Computer Interaction</em>, 2026.</p>
     <p class="pub-links"><a href="https://doi.org/10.1080/10447318.2026.2682916">DOI</a></p>
   </article>
